@@ -167,7 +167,7 @@ p.note { display: none; }
 <a href="20250415_021.JPG" target="_blank"><img src="20250415_021.JPG" alt="サンプル画像" width="900" /></a>
     
 <h2><span class="yellow">うちに着いた途端に土砂降りでした</span></h2>
-<a href="20250415_022.JPG" target="_blank"><img src="20250415_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250415_022.jpg" target="_blank"><img src="20250415_022.jpg" alt="サンプル画像" width="900" /></a>
     
 
 <br><br><br><br><br><br><br><br><br>

@@ -244,7 +244,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、雨に耐えて満開を維持したサクラ達でした。<br>ここまでご覧いただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、庭に咲いたごく普通のお花達でした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">

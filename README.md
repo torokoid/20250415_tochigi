@@ -133,8 +133,9 @@ p.note { display: none; }
     
 <h2><span class="yellow">水仙のお花が満開です</span></h2>
 <a href="20250415_001.JPG" target="_blank"><img src="20250415_001.JPG" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20250415_002.JPG" target="_blank"><img src="20250415_002.JPG" alt="サンプル画像" width="900" /></a>
-    
+-->
 <h2><span class="yellow">水仙の横では小さなハナニラが咲きました</span></h2>
 <a href="20250415_003.JPG" target="_blank"><img src="20250415_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250415_004.JPG" target="_blank"><img src="20250415_004.JPG" alt="サンプル画像" width="900" /></a>

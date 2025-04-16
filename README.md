@@ -1,6 +1,5 @@
 # 20250415_tochigi
 
-<!DOCTYPE html>
 <html lang="ja" data-loaded="false" data-scrolled="false" data-spmenu="closed">
 <head>
 
